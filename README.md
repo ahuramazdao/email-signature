@@ -5,7 +5,7 @@ Stopki e-mail Programy Dla Klubów.
 ## pdk-2026 (nowy design system PDK, 6.11.2026)
 
 - `pdk-2026/stopka-piotr-bak.html` - pełna stopka do nowych wiadomości (obrazki z tego repo, adresy raw.githubusercontent.com), podgląd `pdk-2026/podglad.png`
-- `pdk-2026/stopka-piotr-bak-krotka.html` - krótka stopka do odpowiedzi i przekazywanych dalej, bez obrazków, podgląd `pdk-2026/podglad-krotka.png`
+- `pdk-2026/stopka-piotr-bak-krotka.html` - krótka stopka do odpowiedzi i przekazywanych dalej, tylko ze zdjęciem twarzy (`piotr-bak-twarz-160.jpg`), podgląd `pdk-2026/podglad-krotka.png`
 - logo i ikony wygenerowane z design systemu PDK (`assets/logo/pdk-logo-poziome-kolor.svg`, `icons/icons.json`)
 
 Wklejanie: otwórz plik w Chrome, Cmd+A, Cmd+C, wklej w ustawieniach podpisu programu pocztowego.
